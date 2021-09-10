@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItsKhushalHere
+- 👋 Hi, I’m khushal, a tech. enthusiast & data science aspirant.
 - 👀 I’m interested in Data Science, AI, Web Development, Software Development and exploring new technologies...
 - 📫 How to reach me itskhushalhere@gmail.com, khushalrustagi1234@outlook.com
 
