@@ -1,4 +1,4 @@
-- 👋 Hi, I’m khushal, a tech. enthusiast.
+- 👋 Hi, I’m khushal, a Tech. Enthusiast.
 - 👀 I’m interested in Programming, Data Science, Machine Learning, AI, and exploring new technologies.
 - 📫 How to reach me < itskhushalhere@gmail.com, khushalrustagi1234@outlook.com >.
 
